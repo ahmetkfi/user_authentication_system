@@ -1,4 +1,35 @@
+##User Authentication System
+
+-A user authentication system developed with Next.js
+-This project Node.js,Next.js,and JWT It was developed to improve my skills related to their technology and gain more experience.
+
+
+
+-If you do not have a valid token, you will see a screen like this.
+![Ekran görüntüsü 2023-06-05 181724](https://github.com/ahmetkfi/user_authentication_system/assets/100486215/247ec0ff-3d52-49e9-a88c-66097e6cdf1a)
+
+
+-Sign up page.
+![Ekran görüntüsü 2023-06-05 181910](https://github.com/ahmetkfi/user_authentication_system/assets/100486215/94a4631d-a318-42f2-bcfd-00ea5ac40a5e)
+
+
+-Login page
+![Ekran görüntüsü 2023-06-05 181739](https://github.com/ahmetkfi/user_authentication_system/assets/100486215/c50270dd-67d4-48fb-8b46-fc6b09aef746)
+
+
+
+-If you log in successfully and a valid token is generated, you will see a screen like this
+![Ekran görüntüsü 2023-06-05 181824](https://github.com/ahmetkfi/user_authentication_system/assets/100486215/7faec084-cea7-4937-8b8a-ac26529f33c5)
+
+
+
+-And as a result your profile page will look like this
+![Ekran görüntüsü 2023-06-05 181837](https://github.com/ahmetkfi/user_authentication_system/assets/100486215/7cb5df58-9b84-42ef-b6b2-cb680eeda03b)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
