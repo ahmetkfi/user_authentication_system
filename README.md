@@ -1,6 +1,6 @@
 ##User Authentication System
 
--A user authentication system developed with Next.js
+-A user authentication system developed with Next.js.
 -This project Node.js,Next.js,and JWT It was developed to improve my skills related to their technology and gain more experience.
 
 
